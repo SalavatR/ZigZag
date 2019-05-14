@@ -1,4 +1,4 @@
 # ZigZag
-ZaigZagGame
+ZigZagGame
 
 Zinject test
